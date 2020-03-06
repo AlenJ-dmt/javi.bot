@@ -1,0 +1,75 @@
+'''
+
+#Write Title
+
+pyautogui.moveTo(500, 305)
+pyautogui.click()
+pyautogui.write('Set Of Tires For Sale')
+time.sleep(5)
+
+#Price
+pyautogui.moveTo(500, 355)
+pyautogui.click()
+time.sleep(3)
+pyautogui.write('500')
+time.sleep(5)
+
+#Pictures
+
+pyautogui.moveTo(500, 500)
+pyautogui.click()
+time.sleep(5)
+
+#Select directory
+
+pyautogui.moveTo(400, 460)
+pyautogui.click()
+pyautogui.write(r"C:\Users\Rollo's\Desktop\inventory\tires_pictures\2456517.jpg")
+time.sleep(5)
+pyautogui.moveTo(540, 490)
+time.sleep(3)
+pyautogui.click()
+time.sleep(3)
+
+#Next Button
+
+pyautogui.moveTo(900, 670)
+pyautogui.click()
+
+
+
+post_title = driver.find_element_by_xpath('//*[@id="js_1zk"]/input')
+post_title.send_keys("Auto")
+post_title.send_keys(Keys.DOWN).send_keys(Keys.ENTER)
+
+
+
+post_description = driver.find_element_by_xpath('//*[@id="rc.js_1ve"]/div/div[1]/div[2]/div[1]/label/input')
+post_description.send_keys('oem wheels')
+
+
+set_price = driver.find_element_by_xpath("//*[@id='rc.js_1ve']/div/div[1]/div[3]/div[1]/label/input")
+set_price.send_keys("1000")
+
+upload_pic = driver.find_element_by_xpath('//*[@id="js_1zi"]')
+upload_pic.send_keys('link')
+
+
+select_city = driver.find_element_by_xpath("//*[@id='navItem_1606854132932955']/a/div")
+select = Select(select_city)
+select.select_by_value(city)
+
+
+driver.find_element_by_xpath("//*[@id='navItem_1606854132932955']/a/div").click()
+
+create_button = driver.find_element_by_id("creation_hub_entrypoint")
+create_button.click()
+
+create_listing = driver.find_element_by_xpath("//*[@id='u_0_t']/div/div[1]/div/div/div/button")
+create_listing.click()
+
+select_listing = driver.find_element_by_xpath("//*[@id='facebook']/body/div[6]/div[2]/div/div/div/div/div[2]/div/div[1]")
+select_listing.click()
+
+time.sleep(5)
+'''

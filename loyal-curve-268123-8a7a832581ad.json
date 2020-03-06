@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "loyal-curve-268123",
+  "private_key_id": "8a7a832581ad7a80441848bd44881eb971ee6997",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrGp9RDtBLavM+\nh9/Kq2GcRYoOCJSch+gerM5LsZlWrP41nHJ3DigyqiopLHBmcD844MKhHdWv9mBs\nJBANUuqL0deXE02i9VlTtT5I3Ll0PZRBiGzYa1rp2ZDhBSojik7Ay2oEO1b771bp\n6Mrx1f5FD9QsNhlN1DbQ86XQnc62xw/bQJYEveOe7w6xdr1/VzmW3kEQlPFlFMNq\nbZTL4hRX164/KbZg3CbJ3EbJNgb/vdy2tatijzWssuIfOS9C8FPcoc4DgtPi9NAB\nAkxvMjFLz2ggZCSz3bkg3KLc2jmwi3g3fFBKtQ5uc6W1XUaTdgAo1ZxR7i08jk8f\nh9+xyYXPAgMBAAECggEAEK6ESN1WXnv7YiXSIkrKNferqYmZn5c6gL8dT9DtX792\n+1gY6tWVAreHa8M65CneaBe1sgqcGk89gF2VuQ7T8jTPvZlysMgV4OzjOSxX4mbc\njPUVk5YH45PEJcQgox1pZy+N0wLMDLz9bsm0+5X+99G+wF634dgmTgHrMScpj7U4\nlODLYVJkGGJphD8xTXn8fHBQeLHdzpBLtaP95V1FevQA/L3FJKvEnRjE9Iqhr0fm\nkNOvchopRsS8BhGHD6Za8Au772nNWQMz6I0/xOT39dG/bNcXurIOGacldDRsTD8e\nGiX1JlhjuThJ0zvPS0UXqNbJoT6kdxdmNd5y5+5CnQKBgQDrf4LYjGzASfKoFv72\njOoV8MdBvUhn4iLdfz4yZgPd2t1q4BXpg8CDSVvN+hSwlEcXAHrfdQhr64n2x0w5\nRtWmFlsb4QGX614DQ9/5XjpRuHbbX387W8oMaZpuJBakZO4nOBQNfZxWSxArn2mG\ncL0of5FEaQi1dku0Rz31PyWR9QKBgQC5//m/jHqrYlj6BNWCSZ4pQtCgIPuf1LcH\n1j4giR6BKWau9UYB2l30wrw1NKxga3DEwtxAJaJg0z/D3dfhkG5QAS+ZRKGd728E\nhSfruyNPd7ZVerLENit7XdeRFEdwfPqYcbuBbooz5ZtTpEzgKj0pju0FeSRh+CW+\n1UwmAqZqMwKBgQCcPjA4rgolFarJ/N/SAjH4tpPsuMGGMtGA9T/1vhtIoUIP+3Zu\nRHyAXjZrlUUO1oHH8AiVoxcgSthxA08+HRH4rJJsD7+35G+uaOT7lJnKyEELUPOg\nFUkbLSFJe+YN0ezz1k/vl2wXEJw85PnlOX02llRx9+HQSxj1FeM0iF3L1QKBgAdO\n3nI/Q8aeG57fN8Bhwhwe6vGPujNCeVqOeWxv1sn+ZXF0Y6bI/K4URK7Wfftf3VNt\n0JeYovOo+TVp7wSG1z6/fS5JewwojzUfQj1J4g5KRti+9G0vL7AuNL0XjeMGlhYN\nSe/A9x8o41x69SZNoo+SdQ+k/d/3jwwbd1169yzvAoGAfZHR0yJeBKoEQKXRjACZ\n2sOcXYyqHOopybyNQUX9sGBh4m8HoglDLJSmP0di/YkI4zKdoQqxzuyoPm1CSalN\nj+HYaxbeDAfiv6key75RN+dI10WK/28oo61UTdIeOgS+c70fRfGyGgYR5DJmkfMy\ndmFofSW/bcshKGuT3uPLLPU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "socialmedia-mywheelrepair@loyal-curve-268123.iam.gserviceaccount.com",
+  "client_id": "115521101551599462920",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/socialmedia-mywheelrepair%40loyal-curve-268123.iam.gserviceaccount.com"
+}

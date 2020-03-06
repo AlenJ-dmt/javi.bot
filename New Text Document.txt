@@ -1,0 +1,14 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+import time
+from selenium.webdriver.support.select import Select
+
+category = "Auto Parts"
+
+# create a new Chrome session
+driver = webdriver.Chrome()
+
+driver.maximize_window()
+
+# Navigate to the application home page
+driver.get("https://www.instagram.com/")
